@@ -12,7 +12,7 @@ weight: 3
 
 ## Eine vorausgesetzte Position
 
-Die folgenden Überlegungen setzen zwei Dinge voraus, die ich nicht in diesem Post verteidige: erstens, dass Brain-Machine-Interfaces im kommenden Jahrzehnt **kommen werden**, ob wir das gut finden oder nicht. Neuralink, Synchron, Precision Neuroscience, Paradromics — die Industrie ist real, die Investitionen sind real, die ersten medizinischen Anwendungen funktionieren. Zweitens, dass die Frage daher nicht „ob" lautet, sondern „**in welcher Architektur**". Wenn die Architektur falsch ist, bekommen wir entweder einen technischen Totalitarismus oder ein medizinisch-ökonomisches Apartheidssystem.
+Die folgenden Überlegungen setzen zwei Dinge voraus, die ich nicht in diesem Post verteidige: erstens, dass [Brain-Machine-Interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) im kommenden Jahrzehnt **kommen werden**, ob wir das gut finden oder nicht. [Neuralink](https://en.wikipedia.org/wiki/Neuralink), [Synchron](https://en.wikipedia.org/wiki/Synchron), [Precision Neuroscience](https://precisionneuro.io/), Paradromics — die Industrie ist real, die Investitionen sind real, die ersten medizinischen Anwendungen funktionieren. Zweitens, dass die Frage daher nicht „ob" lautet, sondern „**in welcher Architektur**". Wenn die Architektur falsch ist, bekommen wir entweder einen technischen Totalitarismus oder ein medizinisch-ökonomisches Apartheidssystem.
 
 Es gibt einen dritten Pfad. Er heißt **Föderiertes Bewusstsein**, und er ist die einzige Architektur, in der BMIs mit Cognitive Liberty kompatibel bleiben.
 
@@ -22,7 +22,7 @@ Föderiertes Bewusstsein ist keine technische Vision von „Gehirne in der Cloud
 
 Was es gibt: punktuelle, freiwillige, kryptographisch abgesicherte Kooperationen zwischen Geistern — biologischen, digitalen, hybriden — die einen gemeinsamen Denk-Akt ausführen und sich anschließend wieder trennen.
 
-Das Modell ist eher **Diaspora oder Mastodon** als Facebook. Eher **Tor** als TikTok. Eher **Bittorrent** als YouTube. Verteilt, nicht zentral. Souverän, nicht plattformabhängig.
+Das Modell ist eher **[Diaspora](https://en.wikipedia.org/wiki/Diaspora_%28social_network%29) oder [Mastodon](https://en.wikipedia.org/wiki/Mastodon_%28social_network%29)** als Facebook. Eher **[Tor](https://en.wikipedia.org/wiki/Tor_%28network%29)** als TikTok. Eher **[Bittorrent](https://en.wikipedia.org/wiki/BitTorrent)** als YouTube. Verteilt, nicht zentral. Souverän, nicht plattformabhängig.
 
 ## Drei Design-Prinzipien
 
@@ -45,9 +45,9 @@ Was bedeutet das praktisch?
 - **Schlüssel-Eskrow durch Behörden ist verboten.** Es gibt keine „lawful access"-Hintertür, weil sie technisch nicht existiert. (Das wird unbequem für Strafverfolgung. Es ist trotzdem die richtige Linie.)
 - **Update-Mechanismen** sind opt-in und mit Schlüssel-Authentifizierung versehen. Niemand kann remote Firmware auf das BMI schieben, die der Träger nicht aktiv akzeptiert hat.
 - **Datenhoheit ist exklusiv.** Was das BMI liest, geht in einen vom Träger kontrollierten Speicher. Cloud-Synchronisation, sofern überhaupt, ist Ende-zu-Ende-verschlüsselt mit Schlüsseln, die ausschließlich auf dem Träger-Device existieren.
-- **Vererbung und Vorsorge** sind über Quorum-Mechanismen gelöst (Schamir-Sharing mit Vertrauenspersonen), nicht über Backdoors.
+- **Vererbung und Vorsorge** sind über Quorum-Mechanismen gelöst ([Schamir-Sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing) mit Vertrauenspersonen), nicht über Backdoors.
 
-Kryptographische Hoheit ist die technische Form des Habeas-Corpus-Prinzips, übertragen auf den Geist. Wenn diese Linie fällt, sind alle anderen Schutzmechanismen Show.
+Kryptographische Hoheit ist die technische Form des [Habeas-Corpus-Prinzips](https://en.wikipedia.org/wiki/Habeas_corpus), übertragen auf den Geist. Wenn diese Linie fällt, sind alle anderen Schutzmechanismen Show.
 
 ### Prinzip 3: Disconnect-First
 

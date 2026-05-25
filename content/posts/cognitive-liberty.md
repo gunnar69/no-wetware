@@ -12,13 +12,13 @@ weight: 4
 
 ## Eine Definition, die sich noch nicht durchgesetzt hat
 
-**Cognitive Liberty** ist das Recht auf Selbstbestimmung über die eigenen mentalen Prozesse. Es umfasst drei eng verbundene, aber unterscheidbare Schutzbereiche:
+**[Cognitive Liberty](https://en.wikipedia.org/wiki/Cognitive_liberty)** ist das Recht auf Selbstbestimmung über die eigenen mentalen Prozesse. Es umfasst drei eng verbundene, aber unterscheidbare Schutzbereiche:
 
 1. **Mentale Privatheit** — das Recht, dass die eigenen Gedanken, Stimmungen, Erinnerungen und neuronalen Korrelate nicht ohne explizite Zustimmung ausgelesen werden.
 2. **Mentale Integrität** — das Recht, dass diese Prozesse nicht ohne explizite Zustimmung manipuliert werden (chemisch, elektromagnetisch, durch BMI-Stimulation oder durch hochpräzise Verhaltensmanipulation).
 3. **Mentale Selbstbestimmung** — das aktive Recht, die eigenen Prozesse zu modifizieren, auszuweiten, zu unterstützen oder zu schützen — eingeschlossen das Recht auf BMIs, kognitive Pharmazeutika und Augmentierungstechnologie.
 
-Der Begriff ist nicht neu — Wrye Sententia und Richard Glen Boire haben ihn schon 1999 geprägt — aber er ist juristisch noch nicht angekommen. Das muss sich ändern, **bevor** die ersten kommerziellen Konsumenten-BMIs Massenmarkt werden. Sobald sie es sind, ist die normative Macht der Faktizität auf der falschen Seite.
+Der Begriff ist nicht neu — Wrye Sententia und [Richard Glen Boire](https://www.cognitiveliberty.org/on-cognitive-liberty-boire/) haben ihn schon 1999 geprägt — aber er ist juristisch noch nicht angekommen. Das muss sich ändern, **bevor** die ersten kommerziellen Konsumenten-BMIs Massenmarkt werden. Sobald sie es sind, ist die normative Macht der Faktizität auf der falschen Seite.
 
 ## Warum jetzt
 
@@ -34,9 +34,9 @@ Drei zeitliche Zwänge:
 
 ### EU: Föderiert, aber zaghaft
 
-Die EU hat in der Charta der Grundrechte den Schutz personenbezogener Daten (Art. 8) und die Achtung der Privatsphäre (Art. 7), und die DSGVO erweitert das auf besondere Kategorien sensitiver Daten. **Neurodaten sind dort nicht explizit benannt.** Eine 2024er Stellungnahme des Europäischen Datenschutzausschusses fordert ihre Aufnahme; ein verbindlicher Rechtsakt fehlt.
+Die EU hat in der Charta der Grundrechte den Schutz personenbezogener Daten (Art. 8) und die Achtung der Privatsphäre (Art. 7), und die [DSGVO](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) erweitert das auf besondere Kategorien sensitiver Daten. **Neurodaten sind dort nicht explizit benannt.** Eine 2024er Stellungnahme des Europäischen Datenschutzausschusses fordert ihre Aufnahme; ein verbindlicher Rechtsakt fehlt.
 
-Der EU AI Act (in Kraft seit 2024) verbietet „subliminale" Manipulation und „kognitive Verhaltenssteuerung" — aber die Definitionen sind schwammig, die Durchsetzung steht noch aus. Es ist ein guter erster Schritt. Er reicht nicht.
+Der [EU AI Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act) (in Kraft seit 2024) [verbietet „subliminale" Manipulation](https://artificialintelligenceact.eu/article/5/) und „kognitive Verhaltenssteuerung" — aber die Definitionen sind schwammig, die Durchsetzung steht noch aus. Es ist ein guter erster Schritt. Er reicht nicht.
 
 Was die EU braucht: einen **Neurorechte-Zusatz zur Charta**, der mentale Privatheit, mentale Integrität und mentale Selbstbestimmung explizit benennt — analog zu Art. 3 (Recht auf körperliche und geistige Unversehrtheit), aber präzise an BMI- und Neurotechnologie-Risiken angepasst.
 
@@ -44,13 +44,13 @@ Was die EU braucht: einen **Neurorechte-Zusatz zur Charta**, der mentale Privath
 
 Auf Bundesebene: kein expliziter Neurorechte-Schutz. HIPAA schützt medizinische Daten, nicht aber Konsumelektronik-Neurodaten. Die FTC interpretiert „unfair/deceptive practices" zunehmend erweitert, aber das ist Einzelfall-Recht, kein Schutzfundament.
 
-Auf Bundesstaaten-Ebene gibt es Bewegung: **Colorado** hat 2024 mit HB24-1058 als erster US-Staat „neural data" explizit unter die Privacy Act gestellt. **California** hat 2024 mit SB1223 nachgezogen. **Minnesota** und **Montana** diskutieren ähnliche Vorhaben. Aber das ist Patchwork ohne föderale Klammer.
+Auf Bundesstaaten-Ebene gibt es Bewegung: **Colorado** hat 2024 mit [HB24-1058](https://leg.colorado.gov/bills/hb24-1058) als erster US-Staat „neural data" explizit unter die Privacy Act gestellt. **California** hat 2024 mit [SB1223](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB1223) nachgezogen. **Minnesota** und **Montana** diskutieren ähnliche Vorhaben. Aber das ist Patchwork ohne föderale Klammer.
 
 Die USA werden vermutlich nicht europäisch werden — die First Amendment-Tradition und die ökonomische Macht von Big Tech sprechen dagegen. Der pragmatische Weg dort führt über **Verbraucherschutz-Recht** und **bundesstaatliche Pionierregelungen**.
 
 ### China: Brain-Computer-State im Aufbau
 
-China verfolgt seit 2017 ein massives staatliches Brain-Computer-Interface-Programm. Die Anwendungen reichen von medizinischen über militärische bis zu Aufmerksamkeitsmonitoring in Schulen und an Fließbändern. Letzteres ist nicht spekulativ — es ist seit 2018 in mehreren chinesischen Schulen und Werken dokumentiert.
+China verfolgt seit 2017 ein massives staatliches Brain-Computer-Interface-Programm. Die Anwendungen reichen von medizinischen über militärische bis zu [Aufmerksamkeitsmonitoring in Schulen](https://www.rappler.com/technology/227697-brainco-focus-1-attention-monitoring-jiangnan-experimental-school/) und an Fließbändern. Letzteres ist nicht spekulativ — es ist seit 2018 in mehreren chinesischen Schulen und Werken dokumentiert.
 
 Das Problem ist nicht, dass China BMIs entwickelt. Das Problem ist die **Architektur**: zentralisiert, staatlich integriert, auf Massenverhaltens-Modulation skaliert. In einer Welt, in der diese Architektur Weltstandard wird, gibt es kein föderiertes Bewusstsein — es gibt nur ein zentrales mit besonders feinkörniger Kontrolle.
 
@@ -74,7 +74,7 @@ Ich skizziere, was ein Cognitive-Liberty-Verfassungszusatz minimal enthalten sol
 
 ## Eine philosophische Anmerkung
 
-Es gibt eine alte Einsicht, die in vielen Traditionen wiederkehrt — von der stoischen Ethik über Kants Autonomie-Begriff bis zu modernen Theorien personaler Identität: Wer sich selbst nicht gehört, kann weder frei handeln noch in echte Beziehung treten. Selbstbestimmung über das eigene Innenleben ist die Voraussetzung für alles andere — für Würde, für Politik, für Liebe.
+Es gibt eine alte Einsicht, die in vielen Traditionen wiederkehrt — von der [stoischen Ethik](https://en.wikipedia.org/wiki/Stoicism) über [Kants Autonomie-Begriff](https://en.wikipedia.org/wiki/Autonomy) bis zu modernen Theorien personaler Identität: Wer sich selbst nicht gehört, kann weder frei handeln noch in echte Beziehung treten. Selbstbestimmung über das eigene Innenleben ist die Voraussetzung für alles andere — für Würde, für Politik, für Liebe.
 
 Cognitive Liberty ist die staatsrechtliche Form genau dieser Einsicht. Ein Mensch, der nicht gewiss sein kann, dass seine Gedanken seine eigenen sind, kann keine demokratische Bürgerin sein. Die Aufklärung hat den Schutz des Leibes geschrieben — das einundzwanzigste Jahrhundert muss den Schutz des Geistes nachreichen.
 
