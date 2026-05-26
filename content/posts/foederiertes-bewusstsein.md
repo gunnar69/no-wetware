@@ -75,6 +75,8 @@ Wenn diese drei Prinzipien stehen, eröffnet sich ein Anwendungsraum, den ich f�
 
 **Verteilte AGI ohne zentrales Megamodell.** Statt eines einzigen Anbieters, der ein 10-Billionen-Parameter-Modell hostet, viele lokale Knoten, die freiwillig kooperieren. Wenn die Bandbreite zwischen den Knoten reicht und die Vertrauensbasis steht, ist das technisch eine **bessere** Architektur — robuster, weniger Single-Point-of-Failure-anfällig, demokratischer.
 
+**Ein Vorbehalt:** Diese Architektur beschreibt Knoten aus Menschen, KIs und klassischer Hardware. Biologische Neuronen-Substrate als Rechenknoten im Netz — also Wetware-Chips als föderierte Teilnehmer — sind ausdrücklich ausgenommen. Das Moratorium aus [Wider die Wetware](/posts/wider-die-wetware/) gilt auch hier.
+
 ## Was wir ernst nehmen müssen — vier Risiken
 
 Ich wäre dumm, wenn ich diese Architektur als unproblematisch verkaufte. Vier Risiken sind groß genug, sie hier explizit zu benennen:

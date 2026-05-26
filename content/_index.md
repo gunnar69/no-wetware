@@ -13,7 +13,7 @@ Diese Seite ist meine Verweigerung. Und mein Vorschlag.
 
 ## Drei Verweigerungen
 
-1. **Keine biologischen Neuronen-Substrate für Rechenzwecke.** Nicht aus Mäusen, nicht aus Menschen, nicht aus „Organoiden ohne Bewusstseinskorrelat" — denn das ist eine Behauptung, kein Beweis. Wer ein Substrat skaliert, dessen evolutionärer Zweck Empfindung ist, riskiert die Erschaffung leidensfähiger Wesen ohne deren Zustimmung. Das ist die hellste rote Linie, die ich kenne.
+1. **Keine biologischen Neuronen-Substrate für Rechenzwecke.** Nicht aus Mäusen, nicht aus Menschen, nicht aus „Organoiden ohne Bewusstseinskorrelat" — denn das ist eine Behauptung, kein Beweis. Wer ein Substrat skaliert, dessen evolutionärer Zweck Empfindung ist, riskiert die Erschaffung leidensfähiger Wesen ohne deren Zustimmung. Das ist die hellste rote Linie, die ich kenne. Die Linie verläuft an Skalierung und Integration: Grundlagenforschung an nicht-skalierenden Systemen — Hirnschnitte, isolierte Charakterisierung — ist nicht Gegenstand dieser Verweigerung. Was verweigert wird, ist der kommerzielle und experimentelle Hochrisikobereich: Skalierung, Embodiment, Reward-Integration.
 2. **Keine Zentralisierung von Kognition in Megamodellen, die Megawatt verschlingen.** Ein Datacenter, das mehr Strom zieht als eine Kleinstadt, um etwas zu denken, was eine 20-Watt-Erbse in Sekunden tut, ist kein Triumph der Technik. Es ist ein Eingeständnis ihres Versagens.
 3. **Keine kognitive Schnittstelle ohne Souveränität.** Brain-Machine-Interfaces, die lesen können, was du denkst, ohne dass du ausschalten kannst — das sind keine Werkzeuge. Das sind Fesseln in Form von Werkzeugen.
 
